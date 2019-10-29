@@ -1,2 +1,2 @@
 # DUNE
-Codes for deep learning
+Codes for deep learning for particle identification at DUNE detectors
